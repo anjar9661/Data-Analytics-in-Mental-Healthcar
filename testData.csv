@@ -1,0 +1,6 @@
+number,days,gender,age,melanch,inpatient,edu,marriage,work,madrs1,madrs2
+condition_1,11,2,35-39,2,2,6-10,1,2,19,19
+condition_2,18,2,40-44,2,2,6-10,2,2,24,11
+condition_3,13,1,45-49,2,2,6-10,2,2,24,25
+condition_18,13,2,40-44,2,2,11-15,2,2,18,15
+condition_19,13,2,50-54,2,1,16-20,2,2,26,21
